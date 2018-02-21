@@ -26,18 +26,18 @@ npm run e2e
 npm test
 ```   
 ## 技术栈总结
-Vue.js
-axios
-vue-cli
-webpack
+* Vue.js
+* axios
+* vue-cli
+* webpack
 ## 效果预览
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-2020b42cc26d5284.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"  width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-2020b42cc26d5284.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"  width="250" height="380" ></div>
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-f614046c322a4b30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-f614046c322a4b30.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="250" height="380" ></div>
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-2ecb6fd2ddf24736.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-2ecb6fd2ddf24736.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="250" height="380" ></div>
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-1ae68648776b3c00.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://upload-images.jianshu.io/upload_images/9381131-1ae68648776b3c00.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="250" height="380" ></div>
 
  
 
